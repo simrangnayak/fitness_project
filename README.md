@@ -1,6 +1,5 @@
 # ⌚ Apple Watch Energy Expenditure Prediction
 
-Overview
 This project predicts basal energy expenditure (BEE) and active energy expenditure (AEE) using Apple Watch health data.
 
 # 🔥 Features
